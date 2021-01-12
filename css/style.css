@@ -20,6 +20,12 @@ h1 {
   font-weight: 400;
 }
 
+h2 {
+  font-size: 200%;
+  letter-spacing: 2px;
+  font-weight: 400;
+}
+
 header {
   background: #00693e;
   color: #FFFFFF;
